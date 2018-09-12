@@ -41,3 +41,17 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+
+.cardimg {
+overflow:hidden;
+}
+
+.cardimg img{
+transition: all 1s ease;
+}
+
+.cardimg:hover img{
+transform: scale(1.2);
+}
+
