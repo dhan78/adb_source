@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
 
     <meta charset="utf-8">
@@ -19,19 +18,33 @@
     
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <script type="text/javascript" src="js/custom_adb.js"></script>
 
     <!-- Custom styles for this template -->
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="css/adb.css" rel="stylesheet">
     <link href="css/animate.css" rel="stylesheet">
-    
-    
+<script src="js/custom_adb.js"> </script>
+<script type="text/javascript">
+$(window).scroll(function() {
+  /* affix after scrolling 100px */
+  if ($(document).scrollTop() > 100) {
+    $('.navbar').addClass('affix');
+  } else {
+    $('.navbar').removeClass('affix');
+  }
+});
+
+</script>
+
+
+
   </head>
 
   <body>
 
     <!-- Navigation -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top" data-toggle="affix">
       <div class="container">
         <a class="navbar-brand" href="index.html"><img id="logo" src="images/ADB_logo.png"> </img>ADB Analytics</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -266,6 +279,7 @@ With the powerful ADB API you can immediately put any model into production with
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
 
   </body>
 
