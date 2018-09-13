@@ -55,3 +55,9 @@ transition: all 1s ease;
 transform: scale(1.2);
 }
 
+#logo {
+max-height: 25px;
+padding:0;
+}
+
+
