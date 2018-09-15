@@ -26,16 +26,16 @@ body {
 }
 
 .carousel-caption {
-    padding-bottom: 230px;
-    color: black;
-    font-size: 36px;
+    transform : translateY(-50%);
+    bottom : initial;
+    top : 50%;
 }
 
-.carousel-caption-text {
-    padding-bottom: 160px;
-    color: black;
-    font-size: 16px;
-}
+.item {
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  }
 
 
 .portfolio-item {
