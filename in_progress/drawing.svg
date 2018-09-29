@@ -14,8 +14,11 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="drawing.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="/home/tr0n/ADB_logo.png"
+   inkscape:export-xdpi="94.7407"
+   inkscape:export-ydpi="94.7407">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -37,7 +40,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.125"
-     inkscape:cx="1287.3829"
+     inkscape:cx="1726.6534"
      inkscape:cy="359.16898"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -45,9 +48,9 @@
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="1056"
      inkscape:window-x="0"
-     inkscape:window-y="37"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -57,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,42 +69,36 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g1710"
+       id="g1701" />
+    <g
+       id="g4246"
+       inkscape:export-filename="/home/tr0n/ADB_logo.png"
        inkscape:export-xdpi="94.7407"
        inkscape:export-ydpi="94.7407">
-      <g
-         id="g1701">
-        <path
-           style="fill:#00ff00;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -39.904119,-29.256222 125.25259,-0.558089 -0.0821,-0.133985 -124.96929,0.556829 z"
-           id="path4567" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:238.62971497px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:5.96574259"
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:238.62971497px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:5.96574259"
+         x="160.37944"
+         y="286.24469"
+         id="text1184"
+         transform="scale(1.0389048,0.96255211)"
+         inkscape:export-xdpi="94.7407"
+         inkscape:export-ydpi="94.7407"><tspan
+           sodipodi:role="line"
+           id="tspan1182"
            x="160.37944"
            y="286.24469"
-           id="text1184"
-           transform="scale(1.0389048,0.9625521)"
-           inkscape:export-xdpi="94.7407"
-           inkscape:export-ydpi="94.7407"><tspan
-             sodipodi:role="line"
-             id="tspan1182"
-             x="160.37944"
-             y="286.24469"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:238.628479px;font-family:Anton;-inkscape-font-specification:'Anton, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2a7fff;fill-opacity:1;stroke-width:5.96574259"
-             rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0"><tspan
-   style="fill:#ffffff;fill-opacity:1;stroke-width:5.96574259;-inkscape-font-specification:'ABeeZee, Normal';font-family:ABeeZee;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:238.62946964px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
-   id="tspan1246">ADB</tspan><tspan
-   style="fill:#808080;stroke-width:5.96574259"
-   id="tspan1613"> </tspan>analytics</tspan></text>
-      </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:238.628479px;font-family:Anton;-inkscape-font-specification:'Anton, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2a7fff;fill-opacity:1;stroke-width:5.96574259"
+           rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:238.62947083px;font-family:ABeeZee;-inkscape-font-specification:'ABeeZee, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.96574259"
+   id="tspan1246">ADB</tspan>analytics</tspan></text>
       <path
          inkscape:export-ydpi="94.7407"
          inkscape:export-xdpi="94.7407"
          id="path1528"
-         transform="scale(0.26458333)"
-         d="M -2.9746094 169.58594 L -327.00977 689.58594 L -374.85352 766.36523 L -256.55078 737.11523 L -228.36719 725.1875 L -240.39258 733.12109 L -130.96484 706.06445 L -390.98438 832.45703 L -433.52539 860.51953 L -651.04492 1209.5879 L -644.69141 1209.5879 A 1192.4607 492.42505 0 0 1 -104.21875 1134.2656 A 107.99999 383.99999 0 0 1 -2.9707031 882.51953 A 107.99999 383.99999 0 0 1 98.337891 1134.3125 A 1192.4607 492.42505 0 0 1 636.56055 1209.5879 L 645.10352 1209.5879 L 321.06641 689.58594 L -2.9746094 169.58594 z "
-         style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.63086271" />
+         d="M -0.78703206,44.869613 -86.521334,182.45294 l -12.658659,20.31452 31.300933,-7.73906 7.456908,-3.15588 -3.181717,2.0991 28.952756,-7.15874 -68.796837,33.44137 -11.25564,7.42487 -57.55204,92.35767 1.68103,0 A 315.50522,130.28746 0 0 1 -27.574544,300.10777 28.574997,101.6 0 0 1 -0.78599852,233.49996 28.574997,101.6 0 0 1 26.018567,300.12018 315.50522,130.28746 0 0 1 168.42331,320.03679 l 2.26033,0 L 84.94882,182.45294 -0.78703206,44.869613 Z"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.63086271"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>
