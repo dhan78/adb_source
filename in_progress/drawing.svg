@@ -70,11 +70,19 @@
      id="layer1">
     <g
        id="g1701" />
+    <rect
+       style="opacity:0.20899999;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.21176471"
+       id="rect4254"
+       width="2176.4978"
+       height="485.42221"
+       x="-298.02664"
+       y="-57.471107"
+       ry="11.864425" />
     <g
        id="g4246"
        inkscape:export-filename="/home/tr0n/ADB_logo.png"
-       inkscape:export-xdpi="94.7407"
-       inkscape:export-ydpi="94.7407">
+       inkscape:export-xdpi="9.48736"
+       inkscape:export-ydpi="9.48736">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:238.62971497px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:5.96574259"
@@ -90,7 +98,7 @@
            y="286.24469"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:238.628479px;font-family:Anton;-inkscape-font-specification:'Anton, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2a7fff;fill-opacity:1;stroke-width:5.96574259"
            rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:238.62947083px;font-family:ABeeZee;-inkscape-font-specification:'ABeeZee, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.96574259"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:238.62947083px;font-family:ABeeZee;-inkscape-font-specification:'ABeeZee, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.96574259"
    id="tspan1246">ADB</tspan>analytics</tspan></text>
       <path
          inkscape:export-ydpi="94.7407"
