@@ -40,7 +40,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.125"
-     inkscape:cx="1726.6534"
+     inkscape:cx="3211.7549"
      inkscape:cy="359.16898"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -49,8 +49,8 @@
      inkscape:snap-intersection-paths="true"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-x="1920"
+     inkscape:window-y="65"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,42 +71,41 @@
     <g
        id="g1701" />
     <rect
-       style="opacity:0.20899999;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.21176471"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.21176471"
        id="rect4254"
-       width="2176.4978"
-       height="485.42221"
-       x="-298.02664"
-       y="-57.471107"
-       ry="11.864425" />
-    <g
-       id="g4246"
+       width="672.81775"
+       height="277.70667"
+       x="126.43559"
+       y="50.877537"
+       ry="30.037413"
        inkscape:export-filename="/home/tr0n/ADB_logo.png"
-       inkscape:export-xdpi="9.48736"
-       inkscape:export-ydpi="9.48736">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:238.62971497px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:5.96574259"
-         x="160.37944"
+       inkscape:export-xdpi="9.4207315"
+       inkscape:export-ydpi="9.4207315" />
+    <text
+       inkscape:export-ydpi="9.4207315"
+       inkscape:export-xdpi="9.4207315"
+       transform="scale(1.0389048,0.96255211)"
+       id="text1184"
+       y="286.24469"
+       x="160.37944"
+       style="font-style:normal;font-weight:normal;font-size:238.62971497px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:5.96574259"
+       xml:space="preserve"
+       inkscape:export-filename="/home/tr0n/ADB_logo.png"><tspan
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:238.628479px;font-family:Anton;-inkscape-font-specification:'Anton, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2a7fff;fill-opacity:1;stroke-width:5.96574259"
          y="286.24469"
-         id="text1184"
-         transform="scale(1.0389048,0.96255211)"
-         inkscape:export-xdpi="94.7407"
-         inkscape:export-ydpi="94.7407"><tspan
-           sodipodi:role="line"
-           id="tspan1182"
-           x="160.37944"
-           y="286.24469"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:238.628479px;font-family:Anton;-inkscape-font-specification:'Anton, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2a7fff;fill-opacity:1;stroke-width:5.96574259"
-           rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:238.62947083px;font-family:ABeeZee;-inkscape-font-specification:'ABeeZee, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.96574259"
-   id="tspan1246">ADB</tspan>analytics</tspan></text>
-      <path
-         inkscape:export-ydpi="94.7407"
-         inkscape:export-xdpi="94.7407"
-         id="path1528"
-         d="M -0.78703206,44.869613 -86.521334,182.45294 l -12.658659,20.31452 31.300933,-7.73906 7.456908,-3.15588 -3.181717,2.0991 28.952756,-7.15874 -68.796837,33.44137 -11.25564,7.42487 -57.55204,92.35767 1.68103,0 A 315.50522,130.28746 0 0 1 -27.574544,300.10777 28.574997,101.6 0 0 1 -0.78599852,233.49996 28.574997,101.6 0 0 1 26.018567,300.12018 315.50522,130.28746 0 0 1 168.42331,320.03679 l 2.26033,0 L 84.94882,182.45294 -0.78703206,44.869613 Z"
-         style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.63086271"
-         inkscape:connector-curvature="0" />
-    </g>
+         x="160.37944"
+         id="tspan1182"
+         sodipodi:role="line"><tspan
+   id="tspan1246"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:238.62947083px;font-family:ABeeZee;-inkscape-font-specification:'ABeeZee, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.96574259">ADB </tspan>analytics</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:2.63086271"
+       d="m -44.249241,42.611835 -85.734209,137.583325 -12.65857,20.31452 31.30076,-7.73906 7.45691,-3.15588 -3.18172,2.0991 28.952755,-7.15874 -68.796655,33.44137 -11.25564,7.42487 -57.55204,92.35767 1.68103,0 a 315.50522,130.28746 0 0 1 142.999874,-19.92902 28.574997,101.6 0 0 1 26.788539,-66.60781 28.574997,101.6 0 0 1 26.804565,66.62022 315.50522,130.28746 0 0 1 142.404932,19.91661 l 2.26033,0 L 41.486618,180.19516 -44.249241,42.611835 Z"
+       id="path1528"
+       inkscape:export-xdpi="94.7407"
+       inkscape:export-ydpi="94.7407"
+       inkscape:export-filename="/home/tr0n/ADB_icon.png" />
   </g>
 </svg>
